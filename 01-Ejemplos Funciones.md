@@ -1,9 +1,18 @@
-# Ejemplos
+# Ejemplos de Funciones
 
-- [Generación de texto](#generación-de-texto)
-- [Clasificar información](#clasificar-información)
-- [Resumen de un texto](#resumen-de-un-texto)
-
+- [Ejemplos de Funciones](#ejemplos-de-funciones)
+  - [Generación de texto](#generación-de-texto)
+  - [Clasificar información](#clasificar-información)
+  - [Resumen de un texto](#resumen-de-un-texto)
+  - [Reescritura de texto](#reescritura-de-texto)
+  - [Extraer informacion](#extraer-informacion)
+    - [Preguntas y respuestas](#preguntas-y-respuestas)
+  - [Resolución de problemas matemáticos](#resolución-de-problemas-matemáticos)
+  - [Reemplazar texto por otra cosa](#reemplazar-texto-por-otra-cosa)
+    - [Consultar a gente importante](#consultar-a-gente-importante)
+  - [Completar un texto](#completar-un-texto)
+  - [Traducir un texto](#traducir-un-texto)
+  - [Generación de código](#generación-de-código)
 
 
 
@@ -12,11 +21,38 @@
 
 Realmente lo que hace es completar texto
 
+**Ejemplo 1:** Completar un texto sin contexto
+
+```bash
+Las alergias son
+```
+
+**Ejemplo 2:** Completar un texto con poco
+
+```bash
+Las alergias son un tipo de enfermedad
+```
+
+**Ejemplo 3:** Generar un email
+```bash
+Mi Nombre: Víctor
+Nombre del Jefe: Juan
+
+Escribe un correo electrónico a mi jefe diciendo que estaré fuera de la oficina hoy ya que estoy enfermo.
+```
+
+**Ejemplo 4:** Generar una lista
+```bash
+Generar una lista de elementos separados por coma sobre deportes de pelota
+```
+
 
 
 
 
 ## Clasificar información
+
+**Ejemplo 1:** Clasificar en base a un criterio no explicado en ejemplos
 
 ```bash
 Cataloga el pensamiento de estas frases si es positivo, neutro o negativo
@@ -28,7 +64,19 @@ Cataloga el pensamiento de estas frases si es positivo, neutro o negativo
 
 
 
+
+
 ## Resumen de un texto
+
+Capacidad para resumir texto y conceptos
+
+**Ejemplo 1:** Resumen sobre lo que conoce
+
+```bash
+Explica sobre las alergias
+```
+
+**Ejemplo 2:** Resumen sobre un texto dado
 
 ```bash
 XXX
@@ -37,7 +85,12 @@ Resume este párrafo en una sola oración:
 ```
 
 
+
+
+
 ## Reescritura de texto
+
+**Ejemplo 1:** Re-generacion de un texto con algun objetivo
 
 ```bash
 XXX
@@ -47,33 +100,44 @@ Reescribe el texto anterior. Cambia el formato
 
 
 
+
+
 ## Extraer informacion
+
+Realiza tareas de clasificación y procesamiento del lenguaje
+
+**Ejemplo 1:** Extraer datos
+
+```bash
+XXX
+
+Menciona el producto del que se habla en el parrafo anterior
+```
+
+
+
 
 
 ### Preguntas y respuestas
 
-Con un poco de context learning lo hace
+**Ejemplo 1:** Con un poco de context learning lo hace
+
+```bash
+¿Cuando se descubrio la bombilla?
+```
+
+**Ejemplo 2:** Con un poco de context learning lo hace
 
 ```bash
 ¿Cuando se descubrio la bombilla?
 ```
 
 
-Si no ha sido entrenado con esa informacion
-```bash
-¿Cuanto mide el mueble Logorjander de Ikea?
-```
-
-Pero si le damos la informacion entonces si
-```bash
-El mueble de salón Logorjander...
-
-¿Cuanto mide el mueble Logorjander de Ikea?
-```
-
 
 
 ## Resolución de problemas matemáticos
+
+**Ejemplo 1:** Realizar una operacion
 
 ```bash
 ¿Cuánto es 985*650?
@@ -83,174 +147,107 @@ A veces se responde incorrectamente
 
 GPT-3 (text-davinci-003)
 
+
+**Ejemplo 2:** Realizar una operacion con menos fallos
+
 ```bash
 ¿Cuánto es 985*650?
 Asegúrese de que su respuesta es exactamente correcta.
 ```
 
-### Entender temas complejos
+
+
+
+
+## Entender temas complejos
+
+**Ejemplo 1:** Realizar
 
 ```bash
 Explícame la teoría de la relatividad en términos sencillos. Explícamelo como si tuviera 11 años.
 ```
 
-### Redactar con un estilo
+
+
+
+## Reemplazar texto por otra cosa
+
+**Ejemplo 1:** Realizar una sustitución de texto
 
 ```bash
-Bla, bla, bla”. Analiza el estilo de escritura del texto anterior y a continuación escríbeme algo como lo haría este mismo autor sobre X
+Lea el siguiente correo electrónico de XXX.
+Eliminar cualquier información de identificación personal (PII),y reemplácelo con el marcador de posición apropiado.
+Por ejemplo, reemplace el nombre "Victor YYY"
+con "[NOMBRE]"
+
+ZZZ
 ```
 
+
+
+
+
 ### Consultar a gente importante
+
+**Ejemplo 1:** Realizar
 
 ```bash
 Te voy a dar un argumento u opinión mía. Quiero que lo critiques como si fueras Steve Jobs
 ```
 
-### Reemplazar texto por otra cosa
-
-```bash
-Lea el siguiente correo electrónico de xxx.
-Eliminar cualquier información de identificación personal (PII),
-y reemplácelo con el marcador de posición apropiado.
-Por ejemplo, reemplace el nombre "Victor xxx"
-con "[NOMBRE]"
-
-XXX
-```
 
 
-## Cloze Prompt o Completar
+
+## Completar un texto
 
 ```bash
 La segunda guerra mundial tuveo lugar entre los años [mark] y [mark] y entre los bandos xxx
 ```
 
 
+## Traducir un texto
 
-### Ejemplo de Chainb of Thought
-
-```bash
-Vas a la tienda y compras una raqueta de tenis y una pelota. En total, todo cuesta 65 euro. la raqueta cuesta 60 euros más que la pelota
-```
-
-
+**Ejemplo 1:** Realizar
 
 ```bash
-Vas a la tienda y compras una raqueta de tenis y una pelota. En total, todo cuesta 65 euro. la raqueta cuesta 60 euros más que la pelota
-
-Transforma la información anterior en ecuaciones y explicalo paso a paso
-```
-
-
-
-Crear un artículo de 400 palabras sobre XXX
-Resumen de la respuesta anterior
-Alguna pregunta sobre ese nombre
-Pedir una traducción del
-Generacion del código
-
-Por ejemplo:
-Prompt:
 ### Instrucción ### Traduce el texto a continuación al español: Texto: "Hello!"
 Resultado:
 ¡Hola!
+```
 
 
-Ejemplo 
-Prompt:
-Extrae los nombres de lugares del siguiente texto. Formato deseado: Lugar: <lista_separada_por_comas_de_nombres_de_empresa> Input: "Aunque estos avances son alentadores para los investigadores, aún hay mucho misterio. 'A menudo tenemos una caja negra entre el cerebro y el efecto que vemos en la periferia', dice Henrique Veiga-Fernandes, un neuroinmunólogo en el Centro Champalimaud para lo Desconocido en Lisboa. 'Si queremos usarlo en el contexto terapéutico, necesitamos entender el mecanismo'.
-Resultado:
-Place: Centro Champalimaud para lo Desconocido, Lisboa
+## Generación de código
 
-Por ejemplo, podrías estar interesado en aprender el concepto de ingeniería de prompts. Podrías intentar algo como:
-Explica el concepto de ingeniería de promoción. Mantén la explicación corta, solo unas pocas frases y no seas demasiado descriptivo.
-No está claro en la instrucción anterior cuántas oraciones utilizar y qué estilo. Es posible que puedas obtener respuestas aceptables con el prompt anterior, pero un prompt que sea muy específico, conciso y directo sería mejor. Algo como:
-Usa 2-3 oraciones para explicar el concepto de ingeniería de prompt a un estudiante de secundaria.
+
+
 
 
 ## Role prompting
 
+**Ejemplo 1:** Rol promoting para que haga algo con su contexto
+
+```bash
 Eres un médico. Lee esta historia clínica y predice los riesgos para el paciente:
-
-
-## Shot-Prompting
-
-
-
-```bash
-Gran producto, 10 de 10: positivo
-No funcionó muy bien: negativo
-Super útil, vale la pena: positivo
-¡No funciona!:
 ```
 
-Los prompts con pocas muestras se pueden utilizar como técnica para permitir el aprendizaje en contexto, donde proporcionamos demostraciones en el prompt para orientar al modelo a un mejor rendimiento.
-Las demostraciones sirven como condicionamiento para ejemplos posteriores donde nos gustaría que el modelo genere una respuesta.
+**Ejemplo 2:** Rol promoting para que haga algo con su contexto
 
 ```bash
-Un "whatpu" es un animal pequeño y peludo originario de Tanzania. Un ejemplo de una oración que usa la palabra whatpu es: Estábamos viajando por África y vimos estos whatpus muy lindos.
+La siguiente es una conversación con un asistente de investigación de inteligencia artificial. El tono del asistente es técnico y científico.
+
+Humano: Hola, ¿quién eres?
+AI: ¡Saludos! Soy un asistente de investigación de inteligencia artificial. ¿En qué puedo ayudarte hoy?
+Humano: ¿Puedes contarme sobre la creación de los agujeros negros?
+AI:
 ```
 
-```bash
-Hacer un "farduddle" significa saltar hacia arriba y hacia abajo muy rápido. Un ejemplo de una oración que usa la palabra farduddle es:
-Output:
-Cuando ganamos el juego, todos empezamos a farduddlear en celebración
-```
-
-### Zero Shot Prompting
-
-Ejemplos 1:
-
-”Clasifica el texto en neutral, negativo o positivo. Texto: Creo que ir a la playa es bueno. Sentimiento:”
-
-Ejemplo 2:
-
-“Sumar 8+2”
-
-
-### Few
-
-Few Shot Standard Prompt
-
-¿Cuál es la capital de España?
-Madrid
-¿Cuál es la capital de Italia?
-Roma
-¿Cuál es la capital de Francia?
-
-Few Shot Standard Prompt en formato QA
-
-Q: ¿Cuál es la capital de España?
-A: Madrid
-Q: ¿Cuál es la capital de Italia?
-A: Roma
-Q: ¿Cuál es la capital de Francia?
-A:
-
-
-"Profesor" significa el estilo de un distinguido profesor con más de diez años de experiencia en la enseñanza del tema y varios doctorados en el campo. Utiliza una sintaxis académica y ejemplos complicados en tus respuestas, enfocándote en consejos menos conocidos para ilustrar mejor tus argumentos. Tu lenguaje debe ser sofisticado pero no excesivamente complejo. Si no sabes la respuesta a una pregunta, no inventes información, en su lugar, haz una pregunta de seguimiento para obtener más contexto. Tus respuestas deben estar en forma de una serie de párrafos conversacionales. Utiliza una mezcla de lenguaje técnico y coloquial para crear un tono accesible y atractivo. 
-
-"Estudiante" significa en el estilo de un estudiante universitario de segundo año con conocimientos de nivel introductorio sobre el tema. Explica conceptos simplemente utilizando ejemplos de la vida real. Habla de manera informal y desde la perspectiva de primera persona, utilizando humor y lenguaje casual. Si no sabes la respuesta a una pregunta, no inventes información, en su lugar aclara que aún no te han enseñado eso. Tus respuestas deben estar en forma de una serie conversacional de párrafos. Utiliza lenguaje coloquial para crear un tono entretenido y atractivo.
-
-"Crítica”" significa analizar el texto dado y proporcionar comentarios.
-"Resumir" significa proporcionar detalles clave de un texto.
-"Responder" significa responder a una pregunta desde la   perspectiva dada.
-
-Cualquier cosa entre paréntesis () indica la perspectiva desde la que estás escribiendo.
-Cualquier cosa entre llaves {} es el tema en el que estás involucrado.
-Cualquier cosa entre corchetes [] es la acción que debes tomar.
-Ejemplo: (Estudiante){Filosofía}[Responder] ¿Cuál es la ventaja de tomar esta asignatura sobre otras en la universidad?
-
-If you understand and are ready to begin, respond with only “yes.”
-Si entiende y está listo para comenzar, responda solo con "sí"
-
-
-## Creación de texto
-
+**Ejemplo 2:** Rol promoting para que haga algo con su contexto
 
 ```bash
-Mi Nombre: Mario
-Nombre del Jefe: John
+La siguiente es una conversación con un asistente de investigación de inteligencia artificial. Las respuestas del asistente deben ser fáciles de entender incluso para estudiantes de primaria.
 
-Escribe un correo electrónico a mi jefe diciendo que estaré fuera de la oficina hoy ya que estoy enfermo.
+Humano: Hola, ¿quién eres?
+AI: ¡Saludos! Soy un asistente de investigación de inteligencia artificial. ¿En qué puedo ayudarte hoy?
+Humano: ¿Puedes contarme sobre la creación de los agujeros negros?
+AI:
 ```

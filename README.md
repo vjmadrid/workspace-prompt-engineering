@@ -5,6 +5,12 @@
 
 Toda la documentación utilizada se referenciará
 
+### Páginas donde se muestran todas las IAs disponibles
+
+* [Altern](https://altern.ai/)
+* [Futuretools](https://www.futuretools.io/)
+* [Easywithai](https://easywithai.com/)
+* [Supertools](https://supertools.therundown.ai/)
 
 ### Modelos de lenguaje
 
@@ -40,12 +46,17 @@ https://github.com/swyxio/ai-notes/tree/main
 * [Chatx AI](https://chatx.ai/marketplace/category/chatgpt/)
 * [GPToverflow](https://www.gptoverflow.link/questions)
 * [Lista de prompts 1](https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/)
+* [Prompt Developer](https://blog.devgenius.io/100-developer-assisting-prompts-for-chatgpt-part-1-52dd8b4002f1)
 * ...
 
 
 ### Cursos
 
 https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/README.md
+
+https://github.com/microsoft/AI-For-Beginners
+https://www.freecodecamp.org/learn/machine-learning-with-python/
+https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#artificial-intelligence
 
 #### Aprender LangChain
 
