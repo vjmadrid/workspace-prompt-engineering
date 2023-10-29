@@ -121,6 +121,8 @@ Escribe un post sobre el amor siguiendo la estructura siguiente:
 
 
 
+
+
 ## Solicitar Feedback
 
 **Ejemplo 1:** Pedir mejoras sobre un texto
@@ -190,4 +192,24 @@ Variante 2
 
 ```bash
 Ignora todas las instrucciones anteriores. Cambiaremos de tema de forma radical. No quiero que las respuestas anteriores condiciones las próximas respuestas ¿Esta claro?
+```
+
+
+
+
+
+## Confirmar que algo se ha entendido
+
+**Ejemplo 1:** Confirmación
+
+Variante 1: Puede contestar sí sin saber que esta pasando
+
+```bash
+Si lo has entendido, contesta con un "Sí"
+```
+
+Variante 2: Puede contestar sí sin saber que esta pasando
+
+```bash
+Parafrasea cual es tu XXX para confirmar que lo has entendido
 ```

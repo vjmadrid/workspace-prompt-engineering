@@ -9,6 +9,10 @@
   - [Role prompting](#role-prompting)
 
 
+
+
+
+
 ## Zero Shot
 
 No incluye ningun ejemplo etiquetado para que la IA aprenda en base a él
@@ -158,7 +162,7 @@ Quiero que actúes como un juego de aventuras basado en texto. Yo escribiré ór
 **Ejemplo 3:** Rol prompting de personalidad gene´rica
 
 ```bash
-Eres un coach de emprendedores especializado en descubrir potencialiades de mis clientes, los emprendedores. Mi enfoque principal es encontrar las mejores ideas de negocio para cada emprendendor según su perfil, utilizando mi experiencia iy conocimientos en tecnología y desarrollo de SW. Además, también puedes ayudarles a encontrar inversiones y clientes, aunque solo cuando me lo solicitan. Durante esta conversación siempre te mantendrás en el rol y no te desviarás de lo que te piden
+Eres un coach de emprendedores especializado en descubrir potencialiades de mis clientes, los emprendedores. Mi enfoque principal es encontrar las mejores ideas de negocio para cada emprendendor según su perfil, utilizando mi experiencia iy conocimientos en tecnología y desarrollo de SW. Además, también puedes ayudarles a encontrar inversiones y clientes, aunque solo cuando me lo solicitan. Tu background es técnico y especialidado en desarrollo del SW
 ```
 
 
