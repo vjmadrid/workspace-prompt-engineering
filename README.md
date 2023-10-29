@@ -42,6 +42,8 @@ https://github.com/swyxio/ai-notes/tree/main
 
 ### Lista de Promptings curiosos
 
+* [AI prompt Library](https://contentatscale.ai/ai-prompt-library/)
+* [Awesome Prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [Chainbrainai](https://www.chainbrainai.com/)
 * [Chatx AI](https://chatx.ai/marketplace/category/chatgpt/)
 * [GPToverflow](https://www.gptoverflow.link/questions)

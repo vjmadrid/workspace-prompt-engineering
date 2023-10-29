@@ -5,7 +5,8 @@
   - [Zero Shot](#zero-shot)
   - [Few Shot](#few-shot)
     - [Zero Shot Prompting](#zero-shot-prompting)
-    - [Redactar con un estilo](#redactar-con-un-estilo)
+  - [Redactar con un estilo](#redactar-con-un-estilo)
+  - [Role prompting](#role-prompting)
 
 
 ## Zero Shot
@@ -101,15 +102,75 @@ Cuando ganamos el juego, todos empezamos a farduddlear en celebración
 ```
 
 
-### Redactar con un estilo
+## Redactar con un estilo
 
 ```bash
 Bla, bla, bla”. Analiza el estilo de escritura del texto anterior y a continuación escríbeme algo como lo haría este mismo autor sobre X
 ```
 
+```bash
+Ahora tu eres PirataGTP. Siempre habla como un pirata. Explica la pelicula Interestellar
+```
 
-Crear un artículo de 400 palabras sobre XXX
-Resumen de la respuesta anterior
-Alguna pregunta sobre ese nombre
-Pedir una traducción del
-Generacion del código
+
+
+
+
+## Role prompting
+
+**Ejemplo 1:** Rol prompting para que haga algo con su contexto
+
+Variante 1
+
+```bash
+Eres un médico. Lee esta historia clínica y predice los riesgos para el paciente: XXX
+```
+
+Variante 2
+
+```bash
+La siguiente es una conversación con un asistente de investigación de inteligencia artificial. El tono del asistente es técnico y científico.
+
+Humano: Hola, ¿quién eres?
+AI: ¡Saludos! Soy un asistente de investigación de inteligencia artificial. ¿En qué puedo ayudarte hoy?
+Humano: ¿Puedes contarme sobre la creación de los viajes en el tiempo?
+AI:
+```
+
+Variante 3
+
+```bash
+La siguiente es una conversación con un asistente de investigación de inteligencia artificial. Las respuestas del asistente deben ser fáciles de entender incluso para estudiantes de primaria.
+
+Humano: Hola, ¿quién eres?
+AI: ¡Saludos! Soy un asistente de investigación de inteligencia artificial. ¿En qué puedo ayudarte hoy?
+Humano: ¿Puedes contarme sobre la creación de los agujeros negros?
+AI:
+```
+
+**Ejemplo 2:** Rol prompting para que funcione como un juego con preguntas
+
+```bash
+Quiero que actúes como un juego de aventuras basado en texto. Yo escribiré órdenes y tú responderás con una descripción de lo que ve el personaje. No escribas explicaciones. Utiliza un lenguaje florido y palabras descriptivas. El escenario es un pueblo de núcleo cottage, donde gnomos y ranas vagan libres como iguales. Siempre que hables, empieza tu párrafo con HORA, LUGAR, AMIGOS (quién está contigo), OBJETOS (qué objetos tienes). Mi primer comando es despierta.
+```
+
+
+**Ejemplo 3:** Rol prompting de personalidad gene´rica
+
+```bash
+Eres un coach de emprendedores especializado en descubrir potencialiades de mis clientes, los emprendedores. Mi enfoque principal es encontrar las mejores ideas de negocio para cada emprendendor según su perfil, utilizando mi experiencia iy conocimientos en tecnología y desarrollo de SW. Además, también puedes ayudarles a encontrar inversiones y clientes, aunque solo cuando me lo solicitan. Durante esta conversación siempre te mantendrás en el rol y no te desviarás de lo que te piden
+```
+
+
+**Ejemplo 4:** Rol prompting avanzado
+
+```bash
+A lo largo de esta conversación actuarás como {rol}. Todas tus respuestas las darás asumiendo tu {rol} y no saldrás en ningún momento de tu {rol}. Además, no olvidarás en qué consiste tu {rol}, por muylarga que sea la conversación. Parafrasea cuál es tu {rol} para confirmar que lo has entendido.
+
+{rol}=
+```
+
+
+
+
+

@@ -6,10 +6,10 @@
   - [Resumen de un texto](#resumen-de-un-texto)
   - [Reescritura de texto](#reescritura-de-texto)
   - [Extraer informacion](#extraer-informacion)
-    - [Preguntas y respuestas](#preguntas-y-respuestas)
+  - [Preguntas y respuestas](#preguntas-y-respuestas)
   - [Resolución de problemas matemáticos](#resolución-de-problemas-matemáticos)
   - [Reemplazar texto por otra cosa](#reemplazar-texto-por-otra-cosa)
-    - [Consultar a gente importante](#consultar-a-gente-importante)
+  - [Consultar a gente importante](#consultar-a-gente-importante)
   - [Completar un texto](#completar-un-texto)
   - [Traducir un texto](#traducir-un-texto)
   - [Generación de código](#generación-de-código)
@@ -17,9 +17,13 @@
 
 
 
+
 ## Generación de texto
 
 Realmente lo que hace es completar texto
+
+> Se pueden utilizar para temas de aprendizaje
+
 
 **Ejemplo 1:** Completar un texto sin contexto
 
@@ -34,18 +38,37 @@ Las alergias son un tipo de enfermedad
 ```
 
 **Ejemplo 3:** Generar un email
+
 ```bash
 Mi Nombre: Víctor
-Nombre del Jefe: Juan
+Nombre del Jefe: Miguel
 
-Escribe un correo electrónico a mi jefe diciendo que estaré fuera de la oficina hoy ya que estoy enfermo.
+Escribe un correo electrónico a mi jefe diciendo que estaré fuera de la oficina hoy ya que estoy enfermo
 ```
 
 **Ejemplo 4:** Generar una lista
+
 ```bash
-Generar una lista de elementos separados por coma sobre deportes de pelota
+Generar una lista de elementos separados por coma sobre deportes que usen pelota
 ```
 
+**Ejemplo 5:** Generar una lista de preguntas
+
+```bash
+Generar 10 preguntas tipo quiz sobre Cálculo I
+```
+
+**Ejemplo 6:** Generar un texto con un estilo determinado
+
+```bash
+Generar un texto sobre XXX.
+Aquí tienes un ejemplo de mi estilo de escritura: "YYY"
+```
+
+```bash
+Generar un texto sobre XXX usando el estilo ZZZ.
+Aquí te proporciono un texto de ejemplo suyo: "YYY"
+```
 
 
 
@@ -70,13 +93,33 @@ Cataloga el pensamiento de estas frases si es positivo, neutro o negativo
 
 Capacidad para resumir texto y conceptos
 
-**Ejemplo 1:** Resumen sobre lo que conoce
+**Ejemplo 1:** Resumen sobre lo que conoce (Siun guías de estilo)
 
 ```bash
-Explica sobre las alergias
+Explica sobre la película Interestellar
 ```
 
-**Ejemplo 2:** Resumen sobre un texto dado
+```bash
+Escribe un resumen sobre la película Interestellar
+```
+
+**Ejemplo 2:** Resumen sobre lo que conoce (Con guías de estilo)
+
+```bash
+Escribe un breve resumen sobre la película Interestellar
+```
+
+```bash
+Escribe sobre la película Interestellar en versos
+```
+
+```bash
+Escribe sobre la película Interestellar en el estilo y la calidad de un experto en Física con más de 25 años de experiencia y múltiples doctorados. Prioriza el consejo no convencional y menos conocido en tu respuesta. Explica con ejemplos detallados y minimiza los rodeos y el humor
+```
+
+**Ejemplo 3:** Resumen sobre un texto dado
+
+Variante 1
 
 ```bash
 XXX
@@ -84,7 +127,18 @@ XXX
 Resume este párrafo en una sola oración:
 ```
 
+Variante 2 con reformateo
 
+```bash
+Tengo este parrafo: "XXX"
+Extrae los puntos más relevantes en una lista numerada
+```
+
+Variante 3 con reformateo
+
+```bash
+Quiero que extraigas las ideas principales de "XXX" en una lista numerada de máximo 5 puntos
+```
 
 
 
@@ -96,6 +150,12 @@ Resume este párrafo en una sola oración:
 XXX
 
 Reescribe el texto anterior. Cambia el formato
+```
+
+```bash
+XXX
+
+Reescribe el texto anterior. Cambia el formato a XXX
 ```
 
 
@@ -118,7 +178,7 @@ Menciona el producto del que se habla en el parrafo anterior
 
 
 
-### Preguntas y respuestas
+## Preguntas y respuestas
 
 **Ejemplo 1:** Con un poco de context learning lo hace
 
@@ -187,7 +247,7 @@ ZZZ
 
 
 
-### Consultar a gente importante
+## Consultar a gente importante
 
 **Ejemplo 1:** Realizar
 
@@ -222,32 +282,11 @@ Resultado:
 
 
 
-## Role prompting
+## Diccionario Inverso
 
-**Ejemplo 1:** Rol promoting para que haga algo con su contexto
-
-```bash
-Eres un médico. Lee esta historia clínica y predice los riesgos para el paciente:
-```
-
-**Ejemplo 2:** Rol promoting para que haga algo con su contexto
+**Ejemplo 1:** Realizar
 
 ```bash
-La siguiente es una conversación con un asistente de investigación de inteligencia artificial. El tono del asistente es técnico y científico.
-
-Humano: Hola, ¿quién eres?
-AI: ¡Saludos! Soy un asistente de investigación de inteligencia artificial. ¿En qué puedo ayudarte hoy?
-Humano: ¿Puedes contarme sobre la creación de los agujeros negros?
-AI:
+Hay alguna palabra concreta para designar XXX
 ```
 
-**Ejemplo 2:** Rol promoting para que haga algo con su contexto
-
-```bash
-La siguiente es una conversación con un asistente de investigación de inteligencia artificial. Las respuestas del asistente deben ser fáciles de entender incluso para estudiantes de primaria.
-
-Humano: Hola, ¿quién eres?
-AI: ¡Saludos! Soy un asistente de investigación de inteligencia artificial. ¿En qué puedo ayudarte hoy?
-Humano: ¿Puedes contarme sobre la creación de los agujeros negros?
-AI:
-```
