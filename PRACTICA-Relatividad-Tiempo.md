@@ -25,7 +25,7 @@
 **Paso 1:** Setearemos la IA para que sea un físico teórico -> Role Prompting
 
 ```bash
-Actua como un {rol} {experiencia_rol}. Explícame el estado actual de la física con palabras sencillas.
+Actúa como un {rol} {experiencia_rol}. Explícame el estado actual de la física con palabras sencillas.
 Parafrasea cuál es tu {rol} para confirmar que lo has entendido
 
 {rol}=físico teórico
@@ -55,7 +55,7 @@ Considera el texto de la respuesta anterior. Extrae los puntos más relevantes e
 **Paso 5:** Reformatear la información
 
 ```bash
-Genera una tabla con los puntos 1 y 2 con dos columnas. Una columna con el textot del punto y la otra con las palabras clave más destacables
+Genera una tabla con los puntos 1 y 2 con dos columnas. Una columna con el texto del punto y la otra con las palabras clave más destacables
 ```
 
 **Paso 6:** Solicitaremos un ejemplo fácil
@@ -98,7 +98,7 @@ Recuerdame que son las siguientes etiquetas (mantén el formato de llaves e igua
 {rol}=
 {experiencia_rol}=
 {tematica}=
-{tematica_con_dudas}
+{tematica_con_dudas}=
 ```
 
 
