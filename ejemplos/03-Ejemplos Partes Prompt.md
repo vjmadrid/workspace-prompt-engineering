@@ -6,7 +6,6 @@
   - [Few Shot](#few-shot)
     - [Zero Shot Prompting](#zero-shot-prompting)
   - [Redactar con un estilo](#redactar-con-un-estilo)
-  - [Role prompting](#role-prompting)
 
 
 
@@ -64,7 +63,7 @@ Q: ¿Cuál es la capital de Francia?
 A:
 
 
-"Profesor" significa el estilo de un distinguido profesor con más de diez años de experiencia en la enseñanza del tema y varios doctorados en el campo. Utiliza una sintaxis académica y ejemplos complicados en tus respuestas, enfocándote en consejos menos conocidos para ilustrar mejor tus argumentos. Tu lenguaje debe ser sofisticado pero no excesivamente complejo. Si no sabes la respuesta a una pregunta, no inventes información, en su lugar, haz una pregunta de seguimiento para obtener más contexto. Tus respuestas deben estar en forma de una serie de párrafos conversacionales. Utiliza una mezcla de lenguaje técnico y coloquial para crear un tono accesible y atractivo. 
+"Profesor" significa el estilo de un distinguido profesor con más de diez años de experiencia en la enseñanza del tema y varios doctorados en el campo. Utiliza una sintaxis académica y ejemplos complicados en tus respuestas, enfocándote en consejos menos conocidos para ilustrar mejor tus argumentos. Tu lenguaje debe ser sofisticado pero no excesivamente complejo. Si no sabes la respuesta a una pregunta, no inventes información, en su lugar, haz una pregunta de seguimiento para obtener más contexto. Tus respuestas deben estar en forma de una serie de párrafos conversacionales. Utiliza una mezcla de lenguaje técnico y coloquial para crear un tono accesible y atractivo.
 
 "Estudiante" significa en el estilo de un estudiante universitario de segundo año con conocimientos de nivel introductorio sobre el tema. Explica conceptos simplemente utilizando ejemplos de la vida real. Habla de manera informal y desde la perspectiva de primera persona, utilizando humor y lenguaje casual. Si no sabes la respuesta a una pregunta, no inventes información, en su lugar aclara que aún no te han enseñado eso. Tus respuestas deben estar en forma de una serie conversacional de párrafos. Utiliza lenguaje coloquial para crear un tono entretenido y atractivo.
 
@@ -106,15 +105,28 @@ Cuando ganamos el juego, todos empezamos a farduddlear en celebración
 ```
 
 
+
+
+
 ## Redactar con un estilo
 
-```bash
-Bla, bla, bla”. Analiza el estilo de escritura del texto anterior y a continuación escríbeme algo como lo haría este mismo autor sobre X
-```
+Variante 1
 
 ```bash
-Ahora tu eres PirataGTP. Siempre habla como un pirata. Explica la pelicula Interestellar
+[texto]. Analiza el estilo de escritura del texto anterior y a continuación escríbeme algo como lo haría este mismo autor sobre [temática]
 ```
+
+Variante 2
+
+```bash
+Ahora tu eres PirataGTP. Siempre habla como un pirata. Explica la pelicula [título]
+```
+
+Variante 3
+
+```bash
+Crea 5 posibles títulos para mi nuevo curso. Aquí tienes un par de tituslos mas de mis cursos recientes, por favor emula el estilo y formato escrito de estos: “[texto]”
+```bash
 
 
 

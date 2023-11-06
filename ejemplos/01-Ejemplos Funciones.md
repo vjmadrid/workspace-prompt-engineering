@@ -278,6 +278,41 @@ Resultado:
 
 ## Generación de código
 
+**Ejemplo 1:** Crear un script
+
+Variante 1
+
+```bash
+Genera un script para el envio de emails con Python
+```
+
+Variante 2
+
+```bash
+Genera un script para el envio de emails con Python 3.10 obteniendo los datos que componen el email desde un fichero de propiedades
+```
+
+**Ejemplo 2:** Explicar diferentes posibilidades
+
+
+Variante 1
+
+```bash
+Desarrolla una función que resuelva el siguiente problema: [descripcion problema].
+```
+
+Variante 2
+
+```bash
+Automatiza el siguiente proceso escribiendo un script [detalles script] que realice la siguiente tarea [detalle tarea]
+```
+
+Variante 3
+
+```bash
+Crea un  algoritmo [detalle algoritmo] que resuelva el siguiente problema [descripción problema]
+```
+
 
 
 

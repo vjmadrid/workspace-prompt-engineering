@@ -7,6 +7,7 @@
   - [Solicitar Feedback](#solicitar-feedback)
   - [Resumir mejor parrafo a parrafo](#resumir-mejor-parrafo-a-parrafo)
   - [Cambiar de conversación](#cambiar-de-conversación)
+  - [Solicitar varias acciones en el mismo prompt para optimizar](#solicitar-varias-acciones-en-el-mismo-prompt-para-optimizar)
 
 
 
@@ -121,8 +122,6 @@ Escribe un post sobre el amor siguiendo la estructura siguiente:
 
 
 
-
-
 ## Solicitar Feedback
 
 **Ejemplo 1:** Pedir mejoras sobre un texto
@@ -170,6 +169,7 @@ Resume los siguientes textos (60 palabras para cada resumen)
 
 
 
+
 ## Cambiar de conversación
 
 No requiere tener que reiniciar la conversación
@@ -213,3 +213,32 @@ Variante 2: Puede contestar sí sin saber que esta pasando
 ```bash
 Parafrasea cual es tu XXX para confirmar que lo has entendido
 ```
+
+
+
+
+## Solicitar varias acciones en el mismo prompt para optimizar
+
+**Ejemplo 1:** Variaciones del mismo texto
+
+Variante 1
+
+```bash
+Traduce el siguiente texto [texto acción]: 1. Inglés, 2. Frances, 3. Italiano
+```
+
+Variante 2
+
+```bash
+Traduce el siguiente texto [texto acción] al ingles pero con las siguientes variantes: 1. Técnico, 2. Formal, 3. Popiular
+```
+
+**Ejemplo 3:** Pedir variaciones con diferentes funcionalidad
+
+Variantes 1
+
+```bash
+Se quiere reescribir un [texto utilizado] para las diferentes redes sociales, cada una con el TONO que se suele utilizar  (más cachondo para Twitter, más serio para LinkedIn, más inspirador para Instagram, etc).
+```
+
+Se supone que que el texto es un PÁRRAFO de 80 tokens

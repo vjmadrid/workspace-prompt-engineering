@@ -1,20 +1,25 @@
 # workspace-prompt-engineering
 
+- [Recursos](#recursos)
+
+
+
+
 
 ## Recursos
 
 Toda la documentación utilizada se referenciará
 
-### Páginas donde se muestran todas las IAs disponibles
+
+### Listado de IAs disponibles
 
 * [Altern](https://altern.ai/)
 * [Futuretools](https://www.futuretools.io/)
 * [Easywithai](https://easywithai.com/)
 * [Supertools](https://supertools.therundown.ai/)
 
-### Modelos de lenguaje
 
-* [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond ](https://arxiv.org/abs/2304.13712)
+
 
 
 ### Herramientas de Prompting
@@ -40,16 +45,24 @@ https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/notebooks/pe-chatg
 https://github.com/swyxio/ai-notes/tree/main
 
 
-### Lista de Promptings curiosos
+### Lista de Prompts curiosos
 
 * [AI prompt Library](https://contentatscale.ai/ai-prompt-library/)
 * [Awesome Prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [Chainbrainai](https://www.chainbrainai.com/)
 * [Chatx AI](https://chatx.ai/marketplace/category/chatgpt/)
 * [GPToverflow](https://www.gptoverflow.link/questions)
-* [Lista de prompts 1](https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/)
 * [Prompt Developer](https://blog.devgenius.io/100-developer-assisting-prompts-for-chatgpt-part-1-52dd8b4002f1)
+* [Prompts para instruir](https://github.com/kevinamiri/Instructgpt-prompts)
+* [Ejemplo de prompts](https://github.com/yokoffing/ChatGPT-Prompts)
+* [Lista de prompts 1](https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/)
+* [Lista de prompts 2](https://www.alvarezjoseph.com/blog/prompts-para-chat-gpt-o-open-ai)
+* [Lista de prompts 3](https://santiagocosme.com/mejores-prompts-de-chatgpt-guia-completa/)
+* [Prompts utiles para desarrollo](https://github.com/PickleBoxer/dev-chatgpt-prompts)
 * ...
+
+
+
 
 
 ### Cursos
@@ -60,13 +73,10 @@ https://github.com/microsoft/AI-For-Beginners
 https://www.freecodecamp.org/learn/machine-learning-with-python/
 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#artificial-intelligence
 
+
+
+
+
 #### Aprender LangChain
 
 * [Curso 1](https://github.com/davila7/langchain-101/tree/main)
-
-* [xxx](xxx)
-
-
-
-
-…
