@@ -1,6 +1,6 @@
-# Practica: Desarrollo Quicksort
+# Práctica: Desarrollo Quicksort
 
-- [Practica: Desarrollo Quicksort](#practica-desarrollo-quicksort)
+- [Práctica: Desarrollo Quicksort](#práctica-desarrollo-quicksort)
   - [Caso de uso para Quicksort](#caso-de-uso-para-quicksort)
 
 
