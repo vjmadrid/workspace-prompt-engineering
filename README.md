@@ -11,6 +11,9 @@
 Toda la documentación utilizada se referenciará
 
 
+
+
+
 ### Listado de IAs disponibles
 
 * [Altern](https://altern.ai/)
@@ -21,28 +24,6 @@ Toda la documentación utilizada se referenciará
 
 
 
-
-### Herramientas de Prompting
-
-https://github.com/Agenta-AI/agenta
-https://github.com/stjordanis/betterprompt
-https://huggingface.co/spaces/merve/ChatGPT-prompt-generator
-https://github.com/chainlit/chainlit
-https://trydyno.com/
-https://github.com/jerryjliu/llama_index
-https://github.com/oughtinc/ice
-https://promptperfect.jina.ai/
-https://trypromptly.com/
-https://tools.saxifrage.xyz/prompt
-…
-
-
-https://github.com/kasperjunge/LLM-Guide
-https://github.com/Hannibal046/Awesome-LLM
-https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing
-https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d
-https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/notebooks/pe-chatgpt-langchain.ipynb
-https://github.com/swyxio/ai-notes/tree/main
 
 
 ### Lista de Prompts curiosos
@@ -65,18 +46,62 @@ https://github.com/swyxio/ai-notes/tree/main
 
 
 
-### Cursos
+## Herramientas de Prompting
 
-https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/README.md
+* [Betterprompt](https://github.com/stjordanis/betterprompt)
+* [Generador de prompts de Chatgpt en huggingface](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)
+* [Promptomania](https://promptomania.com/)
+* [Prompthero](https://prompthero.com/prompt/4d4bddd65da)
 
-https://github.com/microsoft/AI-For-Beginners
-https://www.freecodecamp.org/learn/machine-learning-with-python/
+
+
+OpenPrompt
+Promptmetheus
+
+Promptable
+Promptly
+
+
+
+## Cursos
+
+* [Curso IA con microsoft](https://github.com/microsoft/AI-For-Beginners)
+* [Curso Machine Learning With Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+
+
+
+
+
+## Aprender LangChain
+
+* [Curso 1](https://github.com/davila7/langchain-101/tree/main)
+* [Ejemplos 1](https://github.com/krisograbek/LangChain_Tutorials/tree/main)
+* [Ejemplos 2](https://github.com/gkamradt/langchain-tutorials/tree/main)
+
+
+
+
+# Cuarentena
+
+
 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#artificial-intelligence
 
 
+https://github.com/Agenta-AI/agenta
 
+https://github.com/chainlit/chainlit
+https://trydyno.com/
+https://github.com/jerryjliu/llama_index
+https://github.com/oughtinc/ice
+https://promptperfect.jina.ai/
+https://trypromptly.com/
+https://tools.saxifrage.xyz/prompt
+…
+https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/README.md
 
-
-#### Aprender LangChain
-
-* [Curso 1](https://github.com/davila7/langchain-101/tree/main)
+https://github.com/kasperjunge/LLM-Guide
+https://github.com/Hannibal046/Awesome-LLM
+https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing
+https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d
+https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/notebooks/pe-chatgpt-langchain.ipynb
+https://github.com/swyxio/ai-notes/tree/main
