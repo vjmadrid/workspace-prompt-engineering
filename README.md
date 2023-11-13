@@ -32,6 +32,7 @@ Toda la documentación utilizada se referenciará
 * [Awesome Prompts](https://github.com/f/awesome-chatgpt-prompts)
 * [Chainbrainai](https://www.chainbrainai.com/)
 * [Chatx AI](https://chatx.ai/marketplace/category/chatgpt/)
+* [Promptperfect](https://promptperfect.jina.ai/)
 * [GPToverflow](https://www.gptoverflow.link/questions)
 * [Prompt Developer](https://blog.devgenius.io/100-developer-assisting-prompts-for-chatgpt-part-1-52dd8b4002f1)
 * [Prompts para instruir](https://github.com/kevinamiri/Instructgpt-prompts)
@@ -40,6 +41,7 @@ Toda la documentación utilizada se referenciará
 * [Lista de prompts 2](https://www.alvarezjoseph.com/blog/prompts-para-chat-gpt-o-open-ai)
 * [Lista de prompts 3](https://santiagocosme.com/mejores-prompts-de-chatgpt-guia-completa/)
 * [Prompts utiles para desarrollo](https://github.com/PickleBoxer/dev-chatgpt-prompts)
+* [Promptperfect](https://promptperfect.jina.ai/)
 * ...
 
 
@@ -52,6 +54,7 @@ Toda la documentación utilizada se referenciará
 * [Generador de prompts de Chatgpt en huggingface](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)
 * [Promptomania](https://promptomania.com/)
 * [Prompthero](https://prompthero.com/prompt/4d4bddd65da)
+* [Visual Prompt](https://tools.saxifrage.xyz/prompt)
 
 
 
@@ -67,6 +70,11 @@ Promptly
 
 * [Curso IA con microsoft](https://github.com/microsoft/AI-For-Beginners)
 * [Curso Machine Learning With Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+* [Notas sobre IA](https://github.com/swyxio/ai-notes/tree/main)
+* [Notas sobre IA 2](https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing)
+* [Recursos LLM](https://github.com/Hannibal046/Awesome-LLM)
+* [Recursos LLM 2](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/README.md)
+* [Recursos LLM 3](https://github.com/kasperjunge/LLM-Guide)
 
 
 
@@ -77,7 +85,7 @@ Promptly
 * [Curso 1](https://github.com/davila7/langchain-101/tree/main)
 * [Ejemplos 1](https://github.com/krisograbek/LangChain_Tutorials/tree/main)
 * [Ejemplos 2](https://github.com/gkamradt/langchain-tutorials/tree/main)
-
+* [Ejemplos 3](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/notebooks/pe-chatgpt-langchain.ipynb)
 
 
 
@@ -85,23 +93,9 @@ Promptly
 
 
 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#artificial-intelligence
-
-
 https://github.com/Agenta-AI/agenta
-
-https://github.com/chainlit/chainlit
 https://trydyno.com/
 https://github.com/jerryjliu/llama_index
 https://github.com/oughtinc/ice
-https://promptperfect.jina.ai/
 https://trypromptly.com/
-https://tools.saxifrage.xyz/prompt
-…
-https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/README.md
-
-https://github.com/kasperjunge/LLM-Guide
-https://github.com/Hannibal046/Awesome-LLM
-https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing
 https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d
-https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/notebooks/pe-chatgpt-langchain.ipynb
-https://github.com/swyxio/ai-notes/tree/main
