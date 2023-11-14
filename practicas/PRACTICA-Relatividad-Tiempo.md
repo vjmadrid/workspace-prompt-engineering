@@ -81,19 +81,19 @@ Podrías generar un exámen de 5 preguntas sobre {tematica_con_dudas}
 **Paso 9:** Solicitaremos otros recursos asociados: listado libros
 
 ```bash
-Propónme 5 libros para empezar a aprender sobre {tematica_con_dudas}
+Propón 5 libros para empezar a aprender sobre {tematica_con_dudas}
 ```
 
 **Paso 10:** Solicitaremos otros recursos asociados "listado películas"
 
 ```bash
-Propónme 5 películas actuales (últimos 6 años) sobre {tematica_con_dudas}
+Propón 5 películas actuales (últimos 6 años) sobre {tematica_con_dudas}
 ```
 
 **Paso 11:** Solicitaremos un recordatorio de las entidades
 
 ```bash
-Recuerdame que son las siguientes etiquetas (mantén el formato de llaves e igualdades para responder)
+Recuerdame que valor contienen las siguientes etiquetas (mantén el formato de llaves e igualdades para responder)
 
 {rol}=
 {experiencia_rol}=
