@@ -11,7 +11,7 @@
 Toda la documentación utilizada se referenciará
 
 
-
+1
 
 
 ### Listado de IAs disponibles
@@ -22,6 +22,10 @@ Toda la documentación utilizada se referenciará
 * [Supertools](https://supertools.therundown.ai/)
 
 
+### Listado de modelos disponibles
+
+* [Kaggle](https://www.kaggle.com)
+* [Huggingface](https://huggingface.co)
 
 
 
