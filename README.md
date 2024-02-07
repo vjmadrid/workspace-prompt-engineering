@@ -20,6 +20,8 @@ Toda la documentación utilizada se referenciará
 * [Futuretools](https://www.futuretools.io/)
 * [Easywithai](https://easywithai.com/)
 * [Supertools](https://supertools.therundown.ai/)
+* [TopAI.tools](https://topai.tools/)
+  * [TopAI.tools For VS-Code-AI-Extension](https://topai.tools/s/VS-Code-AI-extension)
 
 
 ### Listado de modelos disponibles
@@ -81,6 +83,12 @@ Promptly
 * [Recursos LLM 3](https://github.com/kasperjunge/LLM-Guide)
 
 
+
+## Conversores de código
+
+* [CodeConvert](https://www.codeconvert.ai/)
+* [AI Code Translator](https://ai-code-translator.vercel.app)
+* [AI Code Converter](https://aicodeconvert.com/translator/ai-code-translator)
 
 
 
