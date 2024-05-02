@@ -6,7 +6,7 @@
 
 
 
-## Caso de uso 
+## Caso de uso
 
 
 
@@ -28,6 +28,6 @@ A lo largo de esta conversación actuarás como {rol} {contexto}. Todas tus resp
 **Paso 2:** Solicitar un contenido
 
 ```bash
-me podrías explicar como hacer un test unitario con pytest
+Me podrías explicar como hacer un test unitario con pytest
 ```
 

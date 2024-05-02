@@ -46,9 +46,16 @@ Toda la documentación utilizada se referenciará
 * [Lista de prompts 1](https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/)
 * [Lista de prompts 2](https://www.alvarezjoseph.com/blog/prompts-para-chat-gpt-o-open-ai)
 * [Lista de prompts 3](https://santiagocosme.com/mejores-prompts-de-chatgpt-guia-completa/)
+* [Lista de prompts 4](https://github.com/corralm/awesome-)
 * [Prompts utiles para desarrollo](https://github.com/PickleBoxer/dev-chatgpt-prompts)
 * [Promptperfect](https://promptperfect.jina.ai/)
+* [AI - Collection](https://github.com/ai-collection/ai-collection/blob/main/README.es.md)
 * ...
+
+
+
+
+
 
 
 
