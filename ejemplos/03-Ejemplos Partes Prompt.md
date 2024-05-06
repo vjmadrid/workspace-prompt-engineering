@@ -5,8 +5,8 @@
   - [Zero Shot](#zero-shot)
   - [Few Shot](#few-shot)
   - [Shot-Prompting](#shot-prompting)
-  - [Redactar con un estilo](#redactar-con-un-estilo)
-  - [Role prompting](#role-prompting)
+- [Redactar con un estilo](#redactar-con-un-estilo)
+- [Role prompting](#role-prompting)
 
 
 
@@ -15,11 +15,15 @@
 
 ## Zero Shot
 
+Enfoque de técnica de prompting donde:
+
 Hace que la IA se enfrente al problema o la tarea sin formación específica previa
 
 Hará uso de los conocimientos con los que ha sido entrenada para intentar solucionar nuevos retos
 
 No incluye ningun ejemplo etiquetado para que la IA aprenda en base a él
+
+Se suele utilizar instruciones que no se han probado habitualmente, así como pedirle comportamientos para los que de inicio no ha sido entrenado como: clasificar el texto, etc.
 
 Ventajas:
 
@@ -62,19 +66,22 @@ Sentimiento:
 
 
 
-
-
 ## Few Shot
 
-Se le proporciona a la IA una serie de ejemplos que sirven como guía de una línea de pensamiento
+Enfoque de técnica de prompting donde:
+
+Se le proporciona a la IA una serie de ejemplos ("shots") que sirven como guía de una línea de pensamiento
+
+Los ejemplos hacen las veces de minientrenamiento lo que ayuda a explicar al modelo lo que se espera de él
+
+Se aconseja más de 2 ejemplos
+
+El formato de los ejemplos tiene impacto en la respuesta
 
 Puede mejorar enormemente la respuesta de la IA
 
 El modelo puede aprender de estas demostraciones y mejorar su rendimiento en la tarea en cuestión
 
-Se aconseja más de 2 ejemplos
-
-El formato de los ejemplos tiene impacto en la respuesta
 
 Ventajas:
 
@@ -159,7 +166,7 @@ Cuando ganamos el juego, todos empezamos a farduddlear en celebración
 
 
 
-## Redactar con un estilo
+# Redactar con un estilo
 
 **Ejemplo 1:** Texto original
 
@@ -183,7 +190,7 @@ Crea 5 posibles títulos para mi nuevo curso. Aquí tienes un par de tituslos ma
 
 
 
-## Role prompting
+# Role prompting
 
 **Ejemplo 1:** Rol prompting para que haga algo con su contexto
 

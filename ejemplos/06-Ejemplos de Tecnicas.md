@@ -11,7 +11,7 @@
 
 ## Razonamiento análogico
 
-Se solicita realizar un paralelism,o entre conceptos
+Se solicita realizar un paralelismo entre conceptos
 
 Facilita encontrar similitudes entre dominios, para una comprensión más profunda y con una resolución mas innovadora.
 

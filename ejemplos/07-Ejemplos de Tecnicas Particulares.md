@@ -4,6 +4,7 @@
   - [Problema-Solución](#problema-solución)
   - [Analisis DAFO](#analisis-dafo)
   - [Causa y Efecto](#causa-y-efecto)
+  - [Comparacion](#comparacion)
   - [Cronología](#cronología)
   - [Toma de decisiones](#toma-de-decisiones)
   - [CSI](#csi)
@@ -81,7 +82,7 @@ Explicación: Esta plantilla explora la relación entre una causa y sus efectos,
 
 
 
-## Comparacion
+## Comparacion
 
 Enfoque de técnica de prompting donde:
 
