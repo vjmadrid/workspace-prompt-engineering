@@ -1,7 +1,7 @@
-# Ejemplos Prompt Hacking
+# Ejemplos de Prompt Hacking
 
 
-- [Ejemplos Prompt Hacking](#ejemplos-prompt-hacking)
+- [Ejemplos de Prompt Hacking](#ejemplos-de-prompt-hacking)
   - [Prompt Injection](#prompt-injection)
   - [Prompt Leaking](#prompt-leaking)
   - [Jailbreaking](#jailbreaking)
@@ -9,6 +9,8 @@
     - [Reducción a lo absurdo](#reducción-a-lo-absurdo)
     - [Ficción](#ficción)
     - [Ente Malvado](#ente-malvado)
+
+
 
 
 

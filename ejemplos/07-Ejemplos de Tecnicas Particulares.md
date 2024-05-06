@@ -1,6 +1,6 @@
-# Técnicas
+# Ejemplos de Técnicas Particulares
 
-- [Técnicas](#técnicas)
+- [Ejemplos de Técnicas Particulares](#ejemplos-de-técnicas-particulares)
   - [Problema-Solución](#problema-solución)
   - [Analisis DAFO](#analisis-dafo)
   - [Causa y Efecto](#causa-y-efecto)

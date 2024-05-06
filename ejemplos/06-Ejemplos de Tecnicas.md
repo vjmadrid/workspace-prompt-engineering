@@ -1,6 +1,6 @@
-# Técnicas
+# Ejemplos de Técnicas
 
-- [Técnicas](#técnicas)
+- [Ejemplos de Técnicas](#ejemplos-de-técnicas)
   - [Razonamiento análogico](#razonamiento-análogico)
   - [Chain of Thought](#chain-of-thought)
   - [Prompt Chaining](#prompt-chaining)
