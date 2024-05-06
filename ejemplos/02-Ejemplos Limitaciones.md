@@ -1,14 +1,15 @@
-# Ejemplos de de Limitaciones
+# Ejemplos de Limitaciones
 
 
-- [Ejemplos de de Limitaciones](#ejemplos-de-de-limitaciones)
+- [Ejemplos de Limitaciones](#ejemplos-de-limitaciones)
+  - [Sesgos](#sesgos)
   - [Alucinaciones](#alucinaciones)
 
 
 
 
 
-## Sesgos
+## Sesgos
 
 **Ejemplo 1:** Evita meterse en temas médicos
 
