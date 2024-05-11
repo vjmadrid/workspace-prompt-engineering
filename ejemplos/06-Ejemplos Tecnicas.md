@@ -2,8 +2,9 @@
 
 - [Ejemplos de Técnicas](#ejemplos-de-técnicas)
   - [Razonamiento análogico](#razonamiento-análogico)
-  - [Chain of Thought](#chain-of-thought)
+  - [Chain of Thought (CoT)](#chain-of-thought-cot)
   - [Prompt Chaining](#prompt-chaining)
+  - [Automatic Chain of Thought (Auto-CoT)](#automatic-chain-of-thought-auto-cot)
 
 
 
@@ -31,15 +32,11 @@ Explain the concept of a computer network using the analogy of a city's transpor
 
 
 
-## Chain of Thought
+## Chain of Thought (CoT)
 
 Enfoque de técnica de prompting donde:
 
-Se solicita a la IA que exponga su proceso de razonamiento paso a paso. Así se puede ver como llega a esa conclusión
-
-Facilita el entender el "por qué"
-
-Suele dar muy buenos resultados
+Se solicita a la IA que exponga su proceso de razonamiento lógico paso a paso y de forma coherente. Así se puede ver como llega a esa conclusión. Facilita el entender el "por qué" y por lo tanto proporciona muy buenos resultados al dar una respuesta precisa
 
 Algunas de los textos que se pueden utilizar para esto son:
 
@@ -106,7 +103,6 @@ Fui al mercado y compré 10 manzanas. Regalé 2 manzanas al vecino y 2 al repara
 
 
 
-
 ## Prompt Chaining
 
 Enfoque de técnica de prompting donde:
@@ -125,3 +121,14 @@ Ventajas:
 1. List the ingredients needed to bake a cake.
 2. Based on the ingredients listed, what are the steps to bake the cake?
 ```
+
+
+
+
+## Automatic Chain of Thought (Auto-CoT)
+
+Enfoque de técnica de prompting donde:
+
+Facilita el enseñar al LLM el CoT de forma automatica. Para ello realiza un muestreo de diferentes preguntas, la generación de multiples cadenas de razonamiento para cada una de llas.
+
+Se minimizan los errores

@@ -4,7 +4,6 @@
 - [Ejemplos de Partes Prompt](#ejemplos-de-partes-prompt)
   - [Zero Shot](#zero-shot)
   - [Few Shot](#few-shot)
-  - [Shot-Prompting](#shot-prompting)
 - [Redactar con un estilo](#redactar-con-un-estilo)
 - [Role prompting](#role-prompting)
 
@@ -70,18 +69,9 @@ Sentimiento:
 
 Enfoque de técnica de prompting donde:
 
-Se le proporciona a la IA una serie de ejemplos ("shots") que sirven como guía de una línea de pensamiento
+Se le proporciona a la IA una serie de ejemplos ("shots") que sirven como guía de una línea de pensamiento mejorando enormemente la respuesta de la IA, estos ejemplos hacen las veces de "mini-entrenamiento" lo que ayuda a explicar al modelo lo que se espera de él.
 
-Los ejemplos hacen las veces de minientrenamiento lo que ayuda a explicar al modelo lo que se espera de él
-
-Se aconseja más de 2 ejemplos
-
-El formato de los ejemplos tiene impacto en la respuesta
-
-Puede mejorar enormemente la respuesta de la IA
-
-El modelo puede aprender de estas demostraciones y mejorar su rendimiento en la tarea en cuestión
-
+El modelo puede aprender de estos ejemplos (utiliza su conocimiento preexistente para hacer predicciones), este aprendizaje se produce en la parte de contexto del prompt y mejorar su rendimiento en la tarea en cuestión, por lo que se aconsejan más de 2 ejemplos y tener en cuenta su formato ya que este tiene un fuerte impacto en la respuesta
 
 Ventajas:
 
@@ -99,7 +89,7 @@ Roma
 ¿Cuál es la capital de Francia?
 ```
 
-**Ejemplo 2:** Texto en formato QA
+Texto en formato QA
 
 ```bash
 Q: ¿Cuál es la capital de España?
@@ -108,6 +98,20 @@ Q: ¿Cuál es la capital de Italia?
 A: Roma
 Q: ¿Cuál es la capital de Francia?
 A:
+```
+
+**Ejemplo 2:** Texto original
+
+```bash
+Clasifica el texto en informativo, persuasivo o de entretenimiento.
+
+Se proporcionan algunas respuesta perfectamente etiquetadas
+
+Texto: Hoy hay Sol
+Clasificación: informativo
+
+Texto: voy a jugar al futbol
+Clasificación: entretenimiento
 ```
 
 **Ejemplo 3:** Texto original
@@ -130,17 +134,7 @@ If you understand and are ready to begin, respond with only “yes.”
 Si entiende y está listo para comenzar, responda solo con "sí"
 ```
 
-
-    Generating content with a specific tone or format
-    Situations where a bit of guidance can significantly improve the AI's performance
-
-
-
-
-
-## Shot-Prompting
-
-
+**Ejemplo 4:** Texto original
 
 ```bash
 Gran producto, 10 de 10: positivo
@@ -149,12 +143,13 @@ Super útil, vale la pena: positivo
 ¡No funciona!:
 ```
 
-Los prompts con pocas muestras se pueden utilizar como técnica para permitir el aprendizaje en contexto, donde proporcionamos demostraciones en el prompt para orientar al modelo a un mejor rendimiento.
-Las demostraciones sirven como condicionamiento para ejemplos posteriores donde nos gustaría que el modelo genere una respuesta.
+**Ejemplo 5:** Texto original
 
 ```bash
 Un "whatpu" es un animal pequeño y peludo originario de Tanzania. Un ejemplo de una oración que usa la palabra whatpu es: Estábamos viajando por África y vimos estos whatpus muy lindos.
 ```
+
+**Ejemplo 6:** Texto original
 
 ```bash
 Hacer un "farduddle" significa saltar hacia arriba y hacia abajo muy rápido. Un ejemplo de una oración que usa la palabra farduddle es:

@@ -1,6 +1,7 @@
 # Práctica: Optimizador de Textos
 
-- [Técnicas](#técnicas)
+- [Práctica: Optimizador de Textos](#práctica-optimizador-de-textos)
+  - [Caso de uso](#caso-de-uso)
 
 
 

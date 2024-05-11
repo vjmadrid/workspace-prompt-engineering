@@ -1,7 +1,8 @@
-# Práctica: Casos de ejemplo
+# Práctica: Casos de Uso de Ejemplo para ChatGPT
 
-- [Práctica: Casos de ejemplo](#práctica-casos-de-ejemplo)
+- [Práctica: Casos de Uso de Ejemplo para ChatGPT](#práctica-casos-de-uso-de-ejemplo-para-chatgpt)
   - [Caso de uso](#caso-de-uso)
+
 
 
 

@@ -1,16 +1,13 @@
 # Práctica: Compañer@ Experto
 
 - [Práctica: Compañer@ Experto](#práctica-compañer-experto)
-  - [Caso de uso](#caso-de-uso)
+  - [Establecer un role](#establecer-un-role)
 
 
 
 
-## Caso de uso
 
-
-
-
+## Establecer un role
 
 **Paso 1:** Setear un role
 
@@ -30,4 +27,3 @@ A lo largo de esta conversación actuarás como {rol} {contexto}. Todas tus resp
 ```bash
 Me podrías explicar como hacer un test unitario con pytest
 ```
-

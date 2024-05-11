@@ -1,4 +1,10 @@
-# Generar Datos Sintéticos
+# Práctica: Generar Datos Sintéticos
+
+- [Práctica: Desarrollo Quicksort](#práctica-desarrollo-quicksort)
+  - [Caso de uso para Quicksort](#caso-de-uso-para-quicksort)
+
+
+
 
 
 ## Generación de un fichero JSON
