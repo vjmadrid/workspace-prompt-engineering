@@ -1,38 +1,15 @@
-# workspace-prompt-engineering
+# Recursos Prompting
 
-- [Recursos](#recursos)
-
-
-
-
-
-## Recursos
-
-Toda la documentación utilizada se referenciará
-
-
-1
-
-
-### Listado de IAs disponibles
-
-* [Altern](https://altern.ai/)
-* [Futuretools](https://www.futuretools.io/)
-* [Easywithai](https://easywithai.com/)
-* [Supertools](https://supertools.therundown.ai/)
-* [TopAI.tools](https://topai.tools/)
-  * [TopAI.tools For VS-Code-AI-Extension](https://topai.tools/s/VS-Code-AI-extension)
-
-
-### Listado de modelos disponibles
-
-* [Kaggle](https://www.kaggle.com)
-* [Huggingface](https://huggingface.co)
+- [Recursos Prompting](#recursos-prompting)
+  - [Lista de Prompts curiosos](#lista-de-prompts-curiosos)
+  - [Herramientas de Prompting](#herramientas-de-prompting)
+  - [Cuarentena](#cuarentena)
 
 
 
 
-### Lista de Prompts curiosos
+
+## Lista de Prompts curiosos
 
 * [AI prompt Library](https://contentatscale.ai/ai-prompt-library/)
 * [Awesome Prompts](https://github.com/f/awesome-chatgpt-prompts)
@@ -46,7 +23,7 @@ Toda la documentación utilizada se referenciará
 * [Lista de prompts 1](https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/)
 * [Lista de prompts 2](https://www.alvarezjoseph.com/blog/prompts-para-chat-gpt-o-open-ai)
 * [Lista de prompts 3](https://santiagocosme.com/mejores-prompts-de-chatgpt-guia-completa/)
-* [Lista de prompts 4](https://github.com/corralm/awesome-)
+* [Lista de prompts 4](https://github.com/corralm/awesome-prompting)
 * [Prompts utiles para desarrollo](https://github.com/PickleBoxer/dev-chatgpt-prompts)
 * [Promptperfect](https://promptperfect.jina.ai/)
 * [AI - Collection](https://github.com/ai-collection/ai-collection/blob/main/README.es.md)
@@ -56,26 +33,25 @@ Toda la documentación utilizada se referenciará
 
 
 
-
-
-
-
-
-## Herramientas de Prompting
+## Herramientas de Prompting
 
 * [Betterprompt](https://github.com/stjordanis/betterprompt)
 * [Generador de prompts de Chatgpt en huggingface](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)
 * [Promptomania](https://promptomania.com/)
 * [Prompthero](https://prompthero.com/prompt/4d4bddd65da)
 * [Visual Prompt](https://tools.saxifrage.xyz/prompt)
+* [Publicpromtps](https://publicprompts.art/)
+* [PromptSearch](https://pagebrain.ai/promptsearch)
+* [Pixela.ai](https://pixela.ai/)
+* [Findaything.app](https://findanything.app/#try-now)
+* [Bestaiprompts.art](https://bestaiprompts.art/)
+* [Bestaiprompts.art](
+
+### IDE
+
+* [Promptmetheus](https://promptmetheus.com/)
 
 
-
-OpenPrompt
-Promptmetheus
-
-Promptable
-Promptly
 
 
 
@@ -91,24 +67,10 @@ Promptly
 
 
 
-## Conversores de código
-
-* [CodeConvert](https://www.codeconvert.ai/)
-* [AI Code Translator](https://ai-code-translator.vercel.app)
-* [AI Code Converter](https://aicodeconvert.com/translator/ai-code-translator)
 
 
 
-## Aprender LangChain
-
-* [Curso 1](https://github.com/davila7/langchain-101/tree/main)
-* [Ejemplos 1](https://github.com/krisograbek/LangChain_Tutorials/tree/main)
-* [Ejemplos 2](https://github.com/gkamradt/langchain-tutorials/tree/main)
-* [Ejemplos 3](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/notebooks/pe-chatgpt-langchain.ipynb)
-
-
-
-# Cuarentena
+## Cuarentena
 
 
 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#artificial-intelligence
