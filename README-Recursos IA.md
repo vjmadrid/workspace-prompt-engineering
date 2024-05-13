@@ -68,13 +68,17 @@
 
 #### Convertir de audio a texto
 
+**Ejemplos de Audio**
+
+* [Ejemplos de Audio](https://audio-samples.github.io/)
+
 **Whisper**
 
 * [OpenArt](https://huggingface.co/openai/whisper-large-v3)
 * [Replicate](https://replicate.com/openai/whisper)
 * [GitHub](https://github.com/openai/whisper)
 
-
+* [Whisper](https://github.com/sindresorhus/awesome-whisper)
 
 
 
