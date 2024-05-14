@@ -5,12 +5,17 @@
   - [Crear música](#crear-música)
   - [Para generar una voz](#para-generar-una-voz)
   - [Convertir de audio a texto](#convertir-de-audio-a-texto)
+  - [Prompting Engineering para audios](#prompting-engineering-para-audios)
+    - [Generar detalles de un estilo](#generar-detalles-de-un-estilo)
 
 
 ## Analizadores de canciones
 
 * [Sonorteller AI (Sólo links de Youtube)](https://sonoteller.ai/)
 * [Chosic (Sólo Spotify)](https://www.chosic.com/spotify-playlist-analyzer/)
+* Realizar la explotacion de datos desde una IA de dialogo
+
+
 
 ## Crear música
 
@@ -39,4 +44,21 @@ Notas:
 * [Replicate](https://replicate.com/openai/whisper)
 * [GitHub](https://github.com/openai/whisper)
 * [Awesome Whisper](https://github.com/sindresorhus/awesome-whisper)
+
+
+
+
+
+## Prompting Engineering para audios
+
+
+### Generar detalles de un estilo
+
+```bash
+Describe con mucho detalle el estilo de musica de {artista}. Usa esa informacion para escribir un prompt convertir de texto a musica usando una IA generadora de musica con todos los detalle. Dame uno usando su nombre y otro no usando su nombre, sólo su estilo
+
+{artista}=M83
+```
+
+### 
 
