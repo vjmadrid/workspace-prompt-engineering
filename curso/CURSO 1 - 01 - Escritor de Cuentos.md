@@ -1,6 +1,6 @@
-# Curso 1: Escritor de Fabulas
+# Curso 1: Escritor de Cuentos
 
-- [Curso 1: Escritor de Fabulas](#curso-1-escritor-de-fabulas)
+- [Curso 1: Escritor de Cuentos](#curso-1-escritor-de-cuentos)
   - [Parte Creativa](#parte-creativa)
     - [Generar Ideas](#generar-ideas)
       - [Prompts "Ad-hoc"](#prompts-ad-hoc)
