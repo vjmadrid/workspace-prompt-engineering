@@ -27,6 +27,7 @@
 * [Prompts utiles para desarrollo](https://github.com/PickleBoxer/dev-chatgpt-prompts)
 * [Promptperfect](https://promptperfect.jina.ai/)
 * [AI - Collection](https://github.com/ai-collection/ai-collection/blob/main/README.es.md)
+* [Prompt Library](https://docs.anthropic.com/en/prompt-library/library)
 * ...
 
 
