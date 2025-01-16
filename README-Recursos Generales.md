@@ -4,12 +4,28 @@
   - [Generales](#generales)
   - [Cursos](#cursos)
   - [Conversores de código](#conversores-de-código)
+  - [IAs de Dialogo](#ias-de-dialogo)
+  - [Centralizadores](#centralizadores)
 - [Cuarentena](#cuarentena)
+
 
 
 ## Generales
 
 * [Capcut](https://www.capcut.com/es-es/)
+
+* [Napkin AI](https://www.napkin.ai/) : Convierte texto en visuales de alta calidad
+* [Infografix](nfografix: https://infografix.app/)
+* [WebSim](https://websim.ai/) : Crear aplicaciones
+
+## Workflows
+
+* [Make](https://www.make.com/en/register)
+
+
+
+
+
 
 ## Cursos
 
@@ -22,11 +38,25 @@
 * [Recursos LLM 3](https://github.com/kasperjunge/LLM-Guide)
 
 
+
 ## Conversores de código
 
 * [CodeConvert](https://www.codeconvert.ai/)
 * [AI Code Translator](https://ai-code-translator.vercel.app)
 * [AI Code Converter](https://aicodeconvert.com/translator/ai-code-translator)
+
+
+
+## IAs de Dialogo
+
+* [Mistral](https://mistral.ai/news/mistral-chat/)
+
+
+## Centralizadores
+
+* [Poe](https://poe.com)
+* [Pinocchio](https://pinokio.computer)
+* [Replicate](https://replicate.com)
 
 
 

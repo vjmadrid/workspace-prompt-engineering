@@ -46,12 +46,20 @@
 * [Pixela.ai](https://pixela.ai/)
 * [Findaything.app](https://findanything.app/#try-now)
 * [Bestaiprompts.art](https://bestaiprompts.art/)
-* [Bestaiprompts.art](
+* [Prompthackers.co](https://www.prompthackers.co/chatgpt-prompt-generator)
+
 
 ### IDE
 
 * [Promptmetheus](https://promptmetheus.com/)
 
+
+
+
+Flux Dev LoRA Trainer: https://replicate.com/ostris/flux-dev...
+Spotter Studio: https://spotter.studio
+Guidde: https://guidde.com
+Adobe Podcast: https://podcast.adobe.com
 
 
 

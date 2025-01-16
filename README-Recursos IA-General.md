@@ -21,7 +21,6 @@
 
 
 
-
 ## Portales de modelos disponibles
 
 * [Kaggle](https://www.kaggle.com)

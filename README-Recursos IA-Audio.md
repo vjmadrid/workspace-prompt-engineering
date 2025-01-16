@@ -4,6 +4,7 @@
   - [Analizadores de canciones](#analizadores-de-canciones)
   - [Crear música](#crear-música)
   - [Para generar una voz](#para-generar-una-voz)
+  - [Texto a Voz](#texto-a-voz)
   - [Convertir de audio a texto](#convertir-de-audio-a-texto)
   - [Prompting Engineering para audios](#prompting-engineering-para-audios)
     - [Generar detalles de un estilo](#generar-detalles-de-un-estilo)
@@ -27,9 +28,16 @@ Notas:
 
 * Pide una canción con el artista que quieres y copia los tags por los cuales Udio sustituye a dicho artista
 
+
+
 ## Para generar una voz
 
 * [ElevenLabs](https://elevenlabs.io/)
+
+
+## Texto a Voz
+
+* [Texto a Voz](https://www.text-to-speech.online/)
 
 
 ## Convertir de audio a texto
