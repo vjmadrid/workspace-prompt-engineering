@@ -1,30 +1,45 @@
 # Recursos Generales
 
 - [Recursos Generales](#recursos-generales)
+  - [IAs de Dialogo](#ias-de-dialogo)
+  - [Centralizadores de Modelos](#centralizadores-de-modelos)
   - [Generales](#generales)
+  - [Automatización de Workflows](#automatización-de-workflows)
   - [Cursos](#cursos)
   - [Conversores de código](#conversores-de-código)
-  - [IAs de Dialogo](#ias-de-dialogo)
-  - [Centralizadores](#centralizadores)
 - [Cuarentena](#cuarentena)
+
+
+
+
+## IAs de Dialogo
+
+* [Mistral](https://mistral.ai/news/mistral-chat/) : LLM gratuito de Mistrarl
+* [Google AI Studio](https://aistudio.google.com/live) : Plataforma de LLMs de Google
+
+
+
+## Centralizadores de Modelos
+
+* [Poe](https://poe.com)
+* [Pinocchio](https://pinokio.computer)
+* [Replicate](https://replicate.com)
 
 
 
 ## Generales
 
 * [Capcut](https://www.capcut.com/es-es/)
-
 * [Napkin AI](https://www.napkin.ai/) : Convierte texto en visuales de alta calidad
-* [Infografix](nfografix: https://infografix.app/)
+* [Infografix](nfografix: https://infografix.app/) : Infografias
 * [WebSim](https://websim.ai/) : Crear aplicaciones
 
-## Workflows
-
-* [Make](https://www.make.com/en/register)
 
 
+## Automatización de Workflows
 
-
+* [Make.com](https://www.make.com/en/register) : Orquestador de Flujos
+* [N8N.io](https://n8n.io/) : Orquestador de flujos
 
 
 ## Cursos
@@ -47,16 +62,10 @@
 
 
 
-## IAs de Dialogo
-
-* [Mistral](https://mistral.ai/news/mistral-chat/)
 
 
-## Centralizadores
 
-* [Poe](https://poe.com)
-* [Pinocchio](https://pinokio.computer)
-* [Replicate](https://replicate.com)
+
 
 
 

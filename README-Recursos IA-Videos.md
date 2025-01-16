@@ -2,6 +2,7 @@
 
 - [Recursos IA para Videos](#recursos-ia-para-videos)
   - [Generar videos](#generar-videos)
+  - [Transcripción video a texto](#transcripción-video-a-texto)
 
 
 
@@ -14,9 +15,13 @@
 * [Noisee](https://noisee.ai/)
 * [Pika](https://pika.art)
 * [Hailuoaifree Minimax](https://hailuoaifree.com/es)
+* [Fliki.ai](https://fliki.ai/)
+* [Sora](https://openai.com/sora/)
 
 
 
-## Transcripción video a texto
+
+
+## Transcripción video a texto
 
 * [Riverside](https://riverside.fm/transcription)

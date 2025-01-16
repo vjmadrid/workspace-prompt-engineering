@@ -3,9 +3,11 @@
 - [Recursos IA para Audio](#recursos-ia-para-audio)
   - [Analizadores de canciones](#analizadores-de-canciones)
   - [Crear música](#crear-música)
-  - [Para generar una voz](#para-generar-una-voz)
-  - [Texto a Voz](#texto-a-voz)
-  - [Convertir de audio a texto](#convertir-de-audio-a-texto)
+  - [Generar voces](#generar-voces)
+  - [Conversor](#conversor)
+    - [Texto a Voz](#texto-a-voz)
+    - [Texto a Audio](#texto-a-audio)
+    - [Audio a Texto](#audio-a-texto)
   - [Prompting Engineering para audios](#prompting-engineering-para-audios)
     - [Generar detalles de un estilo](#generar-detalles-de-un-estilo)
 
@@ -30,17 +32,29 @@ Notas:
 
 
 
-## Para generar una voz
+## Generar voces
 
-* [ElevenLabs](https://elevenlabs.io/)
+* [ElevenLabs](https://elevenlabs.io/) : Generador de voces
+  * Clonar nuestra voz
+  * Cambiar nuestra voz
+  * Traducciones por IA
+  * Conversor de Texto a Efecto
 
 
-## Texto a Voz
+
+## Conversor
+
+### Texto a Voz
 
 * [Texto a Voz](https://www.text-to-speech.online/)
 
 
-## Convertir de audio a texto
+### Texto a Audio
+
+* [Google Music fx](https://labs.google/fx/es/tools/music-fx)
+
+
+### Audio a Texto
 
 **Ejemplos de Audio**
 

@@ -9,6 +9,7 @@
 ## Generadores de imágenes
 
 * [Image 3](https://labs.google/fx/tools/image-fx/)
+  * Necesita VPN (No trabaja en España)
 * [Perchance](https://perchance.org/ai-text-to-image-generator)
 * [Lexica](https://lexica.art/)
 * [OpenArt](https://openart.ai)
