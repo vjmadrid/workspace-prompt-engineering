@@ -25,3 +25,4 @@
 ## Transcripción video a texto
 
 * [Riverside](https://riverside.fm/transcription)
+* [Turboscribe]( https://turboscribe.ai/es/)

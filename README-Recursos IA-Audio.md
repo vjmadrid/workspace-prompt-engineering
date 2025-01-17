@@ -3,6 +3,7 @@
 - [Recursos IA para Audio](#recursos-ia-para-audio)
   - [Analizadores de canciones](#analizadores-de-canciones)
   - [Crear música](#crear-música)
+  - [Generar Playlist](#generar-playlist)
   - [Generar voces](#generar-voces)
   - [Conversor](#conversor)
     - [Texto a Voz](#texto-a-voz)
@@ -31,6 +32,10 @@ Notas:
 * Pide una canción con el artista que quieres y copia los tags por los cuales Udio sustituye a dicho artista
 
 
+## Generar Playlist
+
+* [chatjams](https://www.chatjams.ai/)
+
 
 ## Generar voces
 
@@ -39,7 +44,7 @@ Notas:
   * Cambiar nuestra voz
   * Traducciones por IA
   * Conversor de Texto a Efecto
-
+* [jammable](https://www.jammable.com/) : Generador de voces en base a su modelo
 
 
 ## Conversor

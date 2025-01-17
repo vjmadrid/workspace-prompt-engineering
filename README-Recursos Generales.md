@@ -33,8 +33,9 @@
 * [Napkin AI](https://www.napkin.ai/) : Convierte texto en visuales de alta calidad
 * [Infografix](nfografix: https://infografix.app/) : Infografias
 * [WebSim](https://websim.ai/) : Crear aplicaciones
-
-
+* [Documator](https://documator.cc/) : Resumir documentos (PDF)
+* [Whybot](https://whybot-khaki.vercel.app/) : Mapas mentales
+* [Textfx](https://textfx.withgoogle.com/)
 
 ## Automatización de Workflows
 

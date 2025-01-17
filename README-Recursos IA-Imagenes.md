@@ -2,6 +2,7 @@
 
 - [Recursos IA para Imágenes](#recursos-ia-para-imágenes)
   - [Generadores de imágenes](#generadores-de-imágenes)
+  - [Generador de retratos profesionales](#generador-de-retratos-profesionales)
   - [Editar Imagenes](#editar-imagenes)
 
 
@@ -20,7 +21,13 @@
 * [Instant Art](https://instantart.io/)
 
 
+## Generador de retratos profesionales
+
+* [supawork.ai](https://supawork.ai/ai-professional-headshot-generator)
+
+
 ## Editar Imagenes
 
 * [dgb](https://dgb.lol/)
 * [Photopea](https://www.photopea.com/)
+* [Hotpot.ai](https://hotpot.ai/)
