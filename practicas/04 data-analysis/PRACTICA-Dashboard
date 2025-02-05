@@ -1,0 +1,29 @@
+# Práctica: Generación de Dashboard a partir de datos
+
+- [Práctica: Generación de Dashboard a partir de datos](#práctica-generación-de-dashboard-a-partir-de-datos)
+  - [Caso de uso](#caso-de-uso)
+
+
+
+
+
+## Caso de uso
+
+```bash
+Esta es la estructura de mis datos de ventas en formato JSON.
+
+Comprende la estructura y crea un panel de control analítico de ventas interactivo creando 7 visualizaciones clave mediante HTML y JavaScript.
+
+Incluye una función de carga para que pueda cargar el archivo JSON. Deberás generar el panel de control en función de los datos cargados.
+
+Necesito cargar los datos de ventas desde mi ordenador para crear con esos datos el panel de control en función de esos datos.
+Genera 2 links de descarga: 1. Con el HTML del panel de control y 2. El archivo csv convertido a Json
+
+
+Pasos a seguir:
+Primero: analiza el CSV
+Segundo: convierte el CSV en Json
+Tercero: crea el panel en HTML
+Cuarto: Proporciona el link de descarga del panel en HTML
+Quinto: Proporciona el link de descarga del archivo Json
+```

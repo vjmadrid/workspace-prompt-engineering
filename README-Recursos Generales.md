@@ -5,6 +5,7 @@
   - [Centralizadores de Modelos](#centralizadores-de-modelos)
   - [Generales](#generales)
   - [Automatización de Workflows](#automatización-de-workflows)
+  - [Analizadores de datos](#analizadores-de-datos)
   - [Cursos](#cursos)
   - [Conversores de código](#conversores-de-código)
 - [Cuarentena](#cuarentena)
@@ -16,14 +17,23 @@
 
 * [Mistral](https://mistral.ai/news/mistral-chat/) : LLM gratuito de Mistrarl
 * [Google AI Studio](https://aistudio.google.com/live) : Plataforma de LLMs de Google
+* [Qwen](https://chat.qwenlm.ai) : LLM china (Alibaba) permite hace tareas complejas con razonamiento (imagenes, video busqueda en internet)
+* [Deepseek](https://www.deepseek.com) : LLM china
+  * Modelo muy interesante de razonamiento
+* [Hailuo](https://hailuo.ai) : LLM chino con multiples funciones
+  * Tiene el mayor contexto: 4M
+
 
 
 
 ## Centralizadores de Modelos
 
 * [Poe](https://poe.com)
-* [Pinocchio](https://pinokio.computer)
+* [Pinokio](https://pinokio.computer)
 * [Replicate](https://replicate.com)
+* [LM Studio](https://lmstudio.ai/)
+* [Open Router](https://openrouter.ai/)
+
 
 
 
@@ -37,10 +47,25 @@
 * [Whybot](https://whybot-khaki.vercel.app/) : Mapas mentales
 * [Textfx](https://textfx.withgoogle.com/)
 
+
+
+
 ## Automatización de Workflows
 
 * [Make.com](https://www.make.com/en/register) : Orquestador de Flujos
 * [N8N.io](https://n8n.io/) : Orquestador de flujos
+
+
+
+
+## Analizadores de datos
+
+* Se puede hacer con LLMs de texto y un buen prompting
+* [Julius](https://julius.ai/?via=ai-venture) : Plataforma más compleja que hacerlo con LLMs + prompting
+* [DataSquirrel](https://datasquirrel.ai/) : Plataforma para NO técnicos
+  * Incopora mucha asistencia
+
+
 
 
 ## Cursos
@@ -52,6 +77,7 @@
 * [Recursos LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [Recursos LLM 2](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/README.md)
 * [Recursos LLM 3](https://github.com/kasperjunge/LLM-Guide)
+
 
 
 
